@@ -52,7 +52,7 @@
           "#000000"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-          "#FF5E00"
+          "#131318"
       ],
       "CHANNELS_DEFAULT": [
           "#9c9c9c"
@@ -109,10 +109,10 @@
           "#000000"
       ],
       "BORDER_FAINT": [
-          "#39FF14"
+          "#131318"
       ],
       "BORDER_STRONG": [
-          "#00FFFF"
+          "#131318"
       ],
       "BORDER_SUBTLE": [
           "#000000"
